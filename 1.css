@@ -1,0 +1,210 @@
+
+body{
+    background-color: #4e5d6c;
+}
+
+.cumar{
+    background-color: #df691a;
+    box-shadow: none;
+    border: none;
+    font-size: 12px;
+    
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #ebebeb;
+}
+
+
+
+.marketing{
+    background-color: #4e5d6c;
+    padding: 50px 0px;
+
+}
+
+
+
+.icon1{
+    border: 5px solid white;
+    color: white;
+    margin-top: 10px;
+}
+.icon2{
+    border: 5px solid white;
+    color: white;
+    margin-top: 10px;
+}
+.icon3{
+    border: 5px solid white;
+    color: white;
+    margin-top: 10px;
+}
+
+.detail1{background-color: rgb(255, 0, 157) !important;
+    color: white !important;;
+}
+
+.detail2{
+    background-color: rgb(255, 0, 157) !important;
+    color: white!important;;
+}
+.detail3{
+    background-color: rgb(255, 0, 157) !important;
+    color: white !important;;  
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.cumar1100{
+  
+    background-color: #df691a;
+    border: #4e5d6c;
+}
+
+.contactiga{
+  
+    background-color: #df691a;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* domain */
+
+
+.jumbotron{
+    background-color: #b45718;
+    margin-bottom: 30px;
+    color: white;
+}
+.jumbotron p{
+    margin-bottom: 15px;
+    font-size: 23px;
+    font-weight: 200;
+}
+
+.well{
+    
+        min-height: 50px;
+        padding: 50px;
+        margin-bottom: 20px;
+        background-color: #4e5d6c;
+        border: 1px solid transparent;
+        border-radius: 0;
+        padding-top: 13px;
+        
+}
+
+
+
+.domainka{
+    background-color: #b45718;
+   
+}
+
+
+
+
+
+/* qaybtacardska */
+
+.panel {
+    margin-bottom: 21px;
+    background-color: #738eaa;
+    color: white;
+    border: 1px solid transparent;
+    border-radius: 0;
+    font-size: 15px;
+    
+}
+
+.panel-heading {
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+}
+.panel-body {
+    padding: 15px;
+}
+.panel-footer {
+    padding: 10px 15px;
+    background-color: #65788d;
+    
+    border-top: 1px solid transparent;
+   
+}
+
+#btn{
+    background-color: #df691a;
+}
+
+
+
+/* intalistiga */
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: #738eaa;
+    border: 1px solid transparent;
+    color: white;
+    font-size: 15px;
+}
